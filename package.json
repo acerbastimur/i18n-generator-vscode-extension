@@ -1,0 +1,43 @@
+{
+	"name": "i18ngenerator",
+	"displayName": "i18ngenerator",
+	"description": "",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onCommand:extension.Translate"
+	],
+	"main": "./extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.Translate",
+				"title": "Translate"
+			}
+		]
+	},
+	"scripts": {
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "node ./node_modules/vscode/bin/test"
+	},
+	"devDependencies": {
+		"typescript": "^3.3.1",
+		"vscode": "^1.1.28",
+		"eslint": "^5.13.0",
+		"@types/node": "^10.12.21",
+		"@types/mocha": "^2.2.42"
+	},
+	"dependencies": {
+		"@k3rn31p4nic/google-translate-api": "github:k3rn31p4nic/google-translate-api",
+		"async": "^3.1.0",
+		"node-google-translate-skidz": "^1.1.2",
+		"path": "^0.12.7",
+		"translate-google-free": "^0.2.0",
+		"traverse": "^0.6.6"
+	}
+}

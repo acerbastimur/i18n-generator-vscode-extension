@@ -1,0 +1,77 @@
+{
+	"tabs": {
+		"tab1": "Scorebord",
+		"tab2": "Leren",
+		"tab3": "Profiel"
+	},
+	"tab1": {
+		"title": "Rookies Score Lijst"
+	},
+	"tab3": {
+		"userInfo": "Gebruikers informatie",
+		"rateUs": "Beoordeel app",
+		"feedback": "Geef feedback",
+		"enterFeedback": "Voer hier uw feedback in ...",
+		"send": "voorleggen"
+	},
+	"wordList": {
+		"word": "Woord",
+		"percentage": "procent",
+		"congrat": "Gefeliciteerd!",
+		"letsTalk": "Laten we praten!"
+	},
+	"watch": {
+		"click": "Klik om te praten"
+	},
+	"loading": "Even geduld aub",
+	"alert": {
+		"header": "Fout",
+		"subHeader": "Authenticatiefout"
+	},
+	"feedbackErr": {
+		"header": "Fout",
+		"message": "Je feedback moet minstens 10 tekens bevatten!"
+	},
+	"feedbackThanks": {
+		"header": "Bedankt",
+		"message": "We hebben uw melding ontvangen, we zullen u per post op de hoogte brengen"
+	},
+	"landing": {
+		"firstText": "Ben je klaar om Engels te spreken?",
+		"secondText": "Selecteer een woordcategorie in de lijst.",
+		"thirdText": "Zie de woorden die u zult leren voordat u begint te spreken.",
+		"fourthText": "Bekijk scènes uit de filmreeks met woorden uit de door jou gekozen categorie!",
+		"fifthText": "Laten we het nu herhalen! Talk a While zal controleren of u de waarheid spreekt.",
+		"sixthText": "Dat is geweldig als je het goed uitspreekt! Laten we verder gaan met het volgende woord.",
+		"seventhText": "Heeft u problemen om de woorden te zeggen? Probeer het opnieuw of ga naar het volgende woord.",
+		"eighthText": "U kunt de voortgang in het paneel zien. Verzamel punten om volgende categorieën te openen!",
+		"lets": "Laten we!",
+		"talkNow": "SPREEK SPREKEN"
+	},
+	"login": {
+		"signText": "Log in om een ​​tijdje te praten",
+		"email": "E-mail",
+		"password": "Wachtwoord",
+		"signIn": "Aanmelden",
+		"notAMember": "Geen lid?",
+		"signUp": "Inschrijven",
+		"check": "Controleer alle velden!"
+	},
+	"register": {
+		"registerText": "Registreer om een ​​tijdje te praten",
+		"username": "Gebruikersnaam",
+		"email": "E-mail",
+		"password": "Wachtwoord",
+		"signUp": "Aanmelden",
+		"alreadyAMember": "Al lid?",
+		"signIn": "Inschrijven",
+		"check": "Controleer alle velden!"
+	},
+	"share": {
+		"liked": "Vind je de app leuk?",
+		"likeText": "Hoe zit het met het ondersteunen van Talk a While bij een vriend en het ondersteunen van de ontwikkeling van de app? Vertel een vriend waar je van houdt Talk a While!",
+		"later": "Later",
+		"share": "Delen",
+		"sharingText": "Ik vond een geweldige app waarmee je Engels kunt oefenen door saluut, series en films te bekijken 😊. Je kunt het downloaden via deze link:"
+	}
+}

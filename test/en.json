@@ -1,0 +1,77 @@
+{
+    "tabs": {
+        "tab1": "Scoreboard",
+        "tab2": "Learn",
+        "tab3": "Profile"
+    },
+    "tab1": {
+        "title": "Rookie Score List"
+    },
+    "tab3": {
+        "userInfo": "User information",
+        "rateUs": "Rate App",
+        "feedback": "Leave feedback",
+        "enterFeedback": "Enter your feedback here ...",
+        "send": "Submit"
+    },
+    "wordList": {
+        "word": "Word",
+        "percentage": "Percent",
+        "congrat": "Congratulations!",
+        "letsTalk": "Let's talk!"
+    },
+    "watch": {
+        "click": "Click to talk"
+    },
+    "loading": "Please wait",
+    "alert": {
+        "header": "Error",
+        "subHeader": "Authentication error"
+    },
+    "feedbackErr": {
+        "header": "Error",
+        "message": "Your feedback should be at least 10 character!"
+    },
+    "feedbackThanks": {
+        "header": "Thanks",
+        "message": "We have received your notification, we will notify you by mail"
+    },
+    "landing": {
+        "firstText": "Are you ready to speak English?",
+        "secondText": "Select a word category from the list.",
+        "thirdText": "See the words you will learn before you start speaking.",
+        "fourthText": "Watch movie-series scenes with words of your chosen category!",
+        "fifthText": "Let's repeat it now! Talk a While will check to see if you're telling the truth.",
+        "sixthText": "That's great if you pronounce it right! Let's move on to the next word.",
+        "seventhText": "Are you having trouble saying the words? Try again or skip to the next word.",
+        "eighthText": "You can see the progress in the panel. Collect points to open next categories!",
+        "lets": "Let's!",
+        "talkNow": "START TALK"
+    },
+    "login": {
+        "signText": "Login to Talk a While",
+        "email": "Email",
+        "password": "Password",
+        "signIn": "Sign in",
+        "notAMember": "Not a member? ",
+        "signUp": "Sign up",
+        "check": "Please check all fields!"
+    },
+    "register": {
+        "registerText": "Register to Talk a While",
+        "username": "User name",
+        "email": "Email",
+        "password": "Password",
+        "signUp": "Sign in",
+        "alreadyAMember": "Already a member?",
+        "signIn": "Sign up",
+        "check": "Please check all fields!"
+    },
+    "share": {
+        "liked": "Do you like the app?",
+        "likeText": " What about supporting Talk a While to a friend and supporting the development of the app? Tell a friend you love about Talk a While! ",
+        "later": "Later",
+        "share": "Share",
+        "sharingText": "I found a great app where you can practice speaking English by watching salute, series and movies 😊. You can download it from this link:"
+    }
+}

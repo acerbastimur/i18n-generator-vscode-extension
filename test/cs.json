@@ -1,0 +1,77 @@
+{
+	"tabs": {
+		"tab1": "Přehled výsledků",
+		"tab2": "Učit se",
+		"tab3": "Profil"
+	},
+	"tab1": {
+		"title": "Seznam skóre nováčků"
+	},
+	"tab3": {
+		"userInfo": "Uživatelské informace",
+		"rateUs": "Ohodnoťte aplikaci",
+		"feedback": "Zanechte zpětnou vazbu",
+		"enterFeedback": "Zde zadejte svůj názor ...",
+		"send": "Předložit"
+	},
+	"wordList": {
+		"word": "Slovo",
+		"percentage": "Procent",
+		"congrat": "Gratulujeme!",
+		"letsTalk": "Promluvme si!"
+	},
+	"watch": {
+		"click": "Klikněte pro rozhovor"
+	},
+	"loading": "Prosím, čekejte",
+	"alert": {
+		"header": "Chyba",
+		"subHeader": "Chyba ověření"
+	},
+	"feedbackErr": {
+		"header": "Chyba",
+		"message": "Vaše názory by měly být alespoň 10 znaků!"
+	},
+	"feedbackThanks": {
+		"header": "dík",
+		"message": "Obdrželi jsme vaše oznámení, budeme vás informovat poštou"
+	},
+	"landing": {
+		"firstText": "Jste připraveni mluvit anglicky?",
+		"secondText": "Vyberte kategorii slov ze seznamu.",
+		"thirdText": "Než začnete mluvit, podívejte se na slova, která se naučíte.",
+		"fourthText": "Sledujte scény filmové série se slovy zvolené kategorie!",
+		"fifthText": "Zopakujme to teď! Promluvte si, když zjistíte, zda říkáte pravdu.",
+		"sixthText": "To je skvělé, pokud to vyslovíte správně! Přejdeme k dalšímu slovu.",
+		"seventhText": "Máte problémy s tím, co říkáte? Zkuste to znovu nebo přeskočte na další slovo.",
+		"eighthText": "Můžete vidět průběh v panelu. Sbírejte body a otevřete další kategorie!",
+		"lets": "Pojďme!",
+		"talkNow": "START TALK"
+	},
+	"login": {
+		"signText": "Přihlaste se do Talk a While",
+		"email": "E-mailem",
+		"password": "Heslo",
+		"signIn": "Přihlásit se",
+		"notAMember": "Nebýt člen?",
+		"signUp": "Přihlásit se",
+		"check": "Zkontrolujte prosím všechna pole!"
+	},
+	"register": {
+		"registerText": "Zaregistrujte se a promluvte",
+		"username": "Uživatelské jméno",
+		"email": "E-mailem",
+		"password": "Heslo",
+		"signUp": "Přihlásit se",
+		"alreadyAMember": "Jste již členem?",
+		"signIn": "Přihlásit se",
+		"check": "Zkontrolujte prosím všechna pole!"
+	},
+	"share": {
+		"liked": "Líbí se vám aplikace?",
+		"likeText": "Co s podporou Talk a, když se kamarádovi a podporovat vývoj aplikace? Řekněte příteli, že milujete Talk a While!",
+		"later": "Později",
+		"share": "Podíl",
+		"sharingText": "Našel jsem skvělou aplikaci, kde můžete cvičit mluvení anglicky sledováním pozdravů, seriálů a filmů 😊. Můžete si jej stáhnout z tohoto odkazu:"
+	}
+}

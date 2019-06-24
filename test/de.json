@@ -1,0 +1,77 @@
+{
+	"tabs": {
+		"tab1": "Anzeigetafel",
+		"tab2": "Lernen",
+		"tab3": "Profil"
+	},
+	"tab1": {
+		"title": "Rookie Score List"
+	},
+	"tab3": {
+		"userInfo": "Nutzerinformation",
+		"rateUs": "Bewertungs App",
+		"feedback": "Hinterlasse Kommentar",
+		"enterFeedback": "Geben Sie hier Ihr Feedback ein ...",
+		"send": "einreichen"
+	},
+	"wordList": {
+		"word": "Wort",
+		"percentage": "Prozent",
+		"congrat": "Herzliche Glückwünsche!",
+		"letsTalk": "Lass uns reden!"
+	},
+	"watch": {
+		"click": "Klicken Sie, um zu sprechen"
+	},
+	"loading": "Warten Sie mal",
+	"alert": {
+		"header": "Error",
+		"subHeader": "Authentifizierungsfehler"
+	},
+	"feedbackErr": {
+		"header": "Error",
+		"message": "Ihr Feedback sollte mindestens 10 Zeichen haben!"
+	},
+	"feedbackThanks": {
+		"header": "Vielen Dank",
+		"message": "Wir haben Ihre Benachrichtigung erhalten, wir werden Sie per Mail benachrichtigen"
+	},
+	"landing": {
+		"firstText": "Bist du bereit, Englisch zu sprechen?",
+		"secondText": "Wählen Sie eine Wortkategorie aus der Liste.",
+		"thirdText": "Sehen Sie sich die Wörter an, die Sie lernen werden, bevor Sie mit dem Sprechen beginnen.",
+		"fourthText": "Sieh dir Filmserienszenen mit Wörtern deiner gewählten Kategorie an!",
+		"fifthText": "Lass es uns jetzt wiederholen! Sprechen Sie eine Weile und prüfen Sie, ob Sie die Wahrheit sagen.",
+		"sixthText": "Das ist großartig, wenn Sie es richtig aussprechen! Fahren wir mit dem nächsten Wort fort.",
+		"seventhText": "Haben Sie Probleme, die Worte zu sagen? Versuchen Sie es erneut oder fahren Sie mit dem nächsten Wort fort.",
+		"eighthText": "Sie können den Fortschritt im Panel sehen. Sammle Punkte, um die nächsten Kategorien zu öffnen!",
+		"lets": "Lasst uns!",
+		"talkNow": "SPRECHEN STARTEN"
+	},
+	"login": {
+		"signText": "Melde dich an, um eine Weile zu sprechen",
+		"email": "Email",
+		"password": "Passwort",
+		"signIn": "Einloggen",
+		"notAMember": "Kein Mitglied?",
+		"signUp": "Anmelden",
+		"check": "Bitte alle Felder ankreuzen!"
+	},
+	"register": {
+		"registerText": "Registrieren Sie sich, um eine Weile zu sprechen",
+		"username": "Nutzername",
+		"email": "Email",
+		"password": "Passwort",
+		"signUp": "Einloggen",
+		"alreadyAMember": "Schon ein Mitglied?",
+		"signIn": "Anmelden",
+		"check": "Bitte alle Felder ankreuzen!"
+	},
+	"share": {
+		"liked": "Gefällt dir die app",
+		"likeText": "Was ist mit der Unterstützung von Talk a While an einen Freund und der Unterstützung bei der Entwicklung der App? Erzähle einem Freund, den du liebst, von Talk a While!",
+		"later": "Später",
+		"share": "Aktie",
+		"sharingText": "Ich habe eine großartige App gefunden, in der du das Sprechen von Englisch üben kannst, indem du dir Gruß, Serien und Filme ansiehst 😊. Sie können es von diesem Link herunterladen:"
+	}
+}

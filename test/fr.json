@@ -1,0 +1,77 @@
+{
+	"tabs": {
+		"tab1": "Tableau de bord",
+		"tab2": "Apprendre",
+		"tab3": "Profil"
+	},
+	"tab1": {
+		"title": "Rookie Score List"
+	},
+	"tab3": {
+		"userInfo": "Informations de l'utilisateur",
+		"rateUs": "Application de taux",
+		"feedback": "Laisser les commentaires",
+		"enterFeedback": "Entrez vos commentaires ici ...",
+		"send": "Soumettre"
+	},
+	"wordList": {
+		"word": "Mot",
+		"percentage": "Pour cent",
+		"congrat": "Toutes nos félicitations!",
+		"letsTalk": "Parlons!"
+	},
+	"watch": {
+		"click": "Cliquez pour parler"
+	},
+	"loading": "S'il vous plaît, attendez",
+	"alert": {
+		"header": "Erreur",
+		"subHeader": "Erreur d'authentification"
+	},
+	"feedbackErr": {
+		"header": "Erreur",
+		"message": "Vos commentaires devraient être au moins 10 caractères!"
+	},
+	"feedbackThanks": {
+		"header": "Merci",
+		"message": "Nous avons reçu votre notification, nous vous en informerons par mail"
+	},
+	"landing": {
+		"firstText": "Êtes-vous prêt à parler anglais?",
+		"secondText": "Sélectionnez une catégorie de mots dans la liste.",
+		"thirdText": "Voir les mots que vous allez apprendre avant de commencer à parler.",
+		"fourthText": "Regardez des scènes de séries de films avec des mots de la catégorie choisie!",
+		"fifthText": "Répétons-le maintenant! Talk a While vérifiera si vous dites la vérité.",
+		"sixthText": "C'est bien si vous le prononcez bien! Passons au mot suivant.",
+		"seventhText": "Avez-vous du mal à dire les mots? Réessayez ou passez au mot suivant.",
+		"eighthText": "Vous pouvez voir la progression dans le panneau. Collectez des points pour ouvrir les catégories suivantes!",
+		"lets": "Let's!",
+		"talkNow": "Démarrer la conversation"
+	},
+	"login": {
+		"signText": "Connectez-vous pour parler un moment",
+		"email": "Email",
+		"password": "Mot de passe",
+		"signIn": "se connecter",
+		"notAMember": "Pas un membre?",
+		"signUp": "S'inscrire",
+		"check": "S'il vous plaît vérifier tous les champs!"
+	},
+	"register": {
+		"registerText": "Inscrivez-vous pour parler un moment",
+		"username": "Nom d'utilisateur",
+		"email": "Email",
+		"password": "Mot de passe",
+		"signUp": "se connecter",
+		"alreadyAMember": "Déjà membre?",
+		"signIn": "S'inscrire",
+		"check": "S'il vous plaît vérifier tous les champs!"
+	},
+	"share": {
+		"liked": "Aimez-vous l'application?",
+		"likeText": "Qu'en est-il de soutenir Talk a While à un ami et de soutenir le développement de l'application? Parlez à un ami que vous aimez de Talk a While!",
+		"later": "Plus tard",
+		"share": "Partager",
+		"sharingText": "J'ai trouvé une application intéressante où vous pouvez vous exercer à parler anglais en regardant des salutations, des séries et des films. Vous pouvez le télécharger à partir de ce lien:"
+	}
+}
