@@ -180,11 +180,9 @@ path.resolve(__dirname, startDir);
 
 
 run(startDir, "en", ["af","sq","ar","az","eu","bn","be","bg","ca","tr","et","de","hi"], function(err, result) { // start the function 
-  console.log("run sikkosu");
-  
+   
   if (err) {
-    console.log("ERROR:");
-    console.log(err);
+     console.log(err);
     process.exit(0);
   }
 
